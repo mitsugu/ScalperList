@@ -18,7 +18,7 @@
 
 ## Q and A
 Q. どうやって使えばいいのでしょうか？  
-A. [Scalper Manager](https://addons.mozilla.org/ja/firefox/addon/scalper-manager/) のオプションページにテキストボックスがありますのでコピペしてimportボタンをクリックしてください。
+A. [Scalper Manager](https://addons.mozilla.org/ja/firefox/addon/scalper-manager/) のオプションページにテキストボックスがありますのでコピペして RESTORE Scalper List ボタン(データを置き換える場合)もしくは Merge Other Scalper List ボタン(データを追加統合する場合)を押してください。
 
 Q. [アマゾン転売屋ブラックリスト・ブックマークレット](https://note.com/jackpot_hide/n/n228b0876673d)とデータを共有できますか？  
 A. できます。オプションページのテキストボックスにブックマークレットでエクスポートした csv ファイルの中身をコピー・アンド・ペーストし、RESTORE Scalper List ボタン(データを置き換える場合)もしくは Merge Other Scalper List ボタン(データを追加統合する場合)を押してください。
