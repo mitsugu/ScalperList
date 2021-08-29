@@ -6,7 +6,7 @@
  + csv 形式の違法セラーデータ ( 表計算ソフトウェア処理向き )
 
 ## リストの著作権
-+ 著作権法に定められたデータベースの著作物には相当しないと思われるため、著作者はパブリックドメインだと考えています。ですから自由にあなたの Firefox 拡張 [Scalper Manager](https://addons.mozilla.org/ja/firefox/addon/scalper-manager/) にインポートしてご利用ください。
++ パブリックドメイン
 
 ## 更新情報
 + 2021/08/27 : 他の方が作成されたリストの取り込みをやめました。
@@ -22,12 +22,11 @@
 + 定価＋税を超える金額を販売価格としているセラー
 
 ## 関連ソフトウェア
-+ [アマゾン転売屋ブラックリスト・ブックマークレット](https://note.com/jackpot_hide/n/n228b0876673d)
-+ [転売屋ブラックリストツール - Chrome ウェブストア](https://chrome.google.com/webstore/detail/%E8%BB%A2%E5%A3%B2%E5%B1%8B%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB/hfehbkmogocbghcbdenpjooehooppmjh?hl=ja)
-+ Firefox 拡張 [Scalper Manager](https://addons.mozilla.org/ja/firefox/addon/scalper-manager/)
-+ [mitsugu/Scalper: 秀さん作のアマゾン転売屋ブラックリストのブックマークレット版とGoogle Chrome拡張版を Firefox 用に最適化を行った拡張 Scalper Manager のソースです。](https://github.com/mitsugu/Scalper)
-+ [mitsugu/changeseller](https://github.com/mitsugu/changeseller)
++ [Firefox 拡張 Scalper Manager](https://addons.mozilla.org/ja/firefox/addon/scalper-manager/) ( [github](https://github.com/mitsugu/Scalper) )
++ [違法セラー json to csv コンバーター](https://github.com/mitsugu/changeseller)
 + [アマゾン転売屋ブラックリスト json データインポートブックマークレット](https://gist.github.com/mitsugu/ac37f886d84d605ab0c34ca02703179b)
++ [アマゾン転売屋ブラックリスト・ブックマークレット ( こちらが本家 )](https://note.com/jackpot_hide/n/n228b0876673d)
++ [転売屋ブラックリストツール ( こちらが本家 ) - Chrome ウェブストア](https://chrome.google.com/webstore/detail/%E8%BB%A2%E5%A3%B2%E5%B1%8B%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB/hfehbkmogocbghcbdenpjooehooppmjh?hl=ja)
 
 ## Q and A
 Q. どうやって使えばいいのでしょうか？  
